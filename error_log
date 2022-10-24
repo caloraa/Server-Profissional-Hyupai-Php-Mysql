@@ -1,0 +1,41 @@
+[25-Jul-2021 10:40:23 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/hyupai42/public_html/newserver/DB.php on line 8
+[25-Jul-2021 10:41:19 America/Fortaleza] PHP Warning:  require_once(DB.php): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/logar.php on line 4
+[25-Jul-2021 10:41:19 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'DB.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/hyupai42/public_html/newserver/logar.php on line 4
+[25-Jul-2021 10:51:44 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/logar.php on line 34
+[25-Jul-2021 10:55:17 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/logar.php on line 34
+[25-Jul-2021 10:55:41 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/logar.php on line 42
+[25-Jul-2021 10:55:49 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/logar.php on line 42
+[25-Jul-2021 10:56:03 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/logar.php on line 42
+[25-Jul-2021 20:21:13 America/Fortaleza] PHP Warning:  fopen(Keys/PrivateKey.prk): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/Utils.php on line 59
+[25-Jul-2021 20:21:17 America/Fortaleza] PHP Warning:  fopen(Keys/PrivateKey.prk): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/Utils.php on line 59
+[25-Jul-2021 20:21:19 America/Fortaleza] PHP Warning:  fopen(Keys/PrivateKey.prk): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/Utils.php on line 59
+[25-Jul-2021 20:21:27 America/Fortaleza] PHP Warning:  fopen(Keys/PrivateKey.prk): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/Utils.php on line 59
+[25-Jul-2021 20:21:35 America/Fortaleza] PHP Warning:  fopen(Keys/PrivateKey.prk): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/Utils.php on line 59
+[25-Jul-2021 20:21:38 America/Fortaleza] PHP Warning:  fopen(Keys/PrivateKey.prk): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/Utils.php on line 59
+[25-Jul-2021 20:24:52 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/verify.php on line 13
+[25-Jul-2021 20:24:52 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/verify.php on line 13
+[25-Jul-2021 20:24:52 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/verify.php on line 13
+[25-Jul-2021 20:24:52 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/verify.php on line 13
+[25-Jul-2021 20:24:52 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/verify.php on line 13
+[25-Jul-2021 20:24:52 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/verify.php on line 13
+[25-Jul-2021 20:27:03 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/verify.php on line 13
+[25-Jul-2021 20:28:06 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/hyupai42/public_html/newserver/verify.php on line 13
+[25-Jul-2021 21:15:09 America/Fortaleza] PHP Warning:  file_get_contents(http://ipinfo.io/162.255.45.50/privacy?token=): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/hyupai42/public_html/newserver/data.php on line 94
+[25-Jul-2021 21:15:16 America/Fortaleza] PHP Warning:  file_get_contents(http://ipinfo.io/162.255.45.50/privacy?token=): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/hyupai42/public_html/newserver/data.php on line 94
+[25-Jul-2021 21:15:32 America/Fortaleza] PHP Warning:  file_get_contents(http://ipinfo.io/162.255.45.50/privacy?token=): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/hyupai42/public_html/newserver/data.php on line 94
+[25-Jul-2021 21:19:25 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/hyupai42/public_html/newserver/data.php on line 145
+[25-Jul-2021 21:41:23 America/Fortaleza] PHP Warning:  fopen(Keys/PrivateKey.prk): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/Utils.php on line 59
+[25-Jul-2021 21:42:00 America/Fortaleza] PHP Warning:  include(inita.php): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/login.php on line 3
+[25-Jul-2021 21:42:00 America/Fortaleza] PHP Warning:  include(inita.php): failed to open stream: No such file or directory in /home2/hyupai42/public_html/newserver/login.php on line 3
+[25-Jul-2021 21:42:00 America/Fortaleza] PHP Warning:  include(): Failed opening 'inita.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/hyupai42/public_html/newserver/login.php on line 3
+[25-Jul-2021 21:42:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Crypter' not found in /home2/hyupai42/public_html/newserver/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/hyupai42/public_html/newserver/login.php on line 6
+[26-Jul-2021 07:57:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/hyupai42/public_html/newserverr/stopuser.php on line 176
+[26-Jul-2021 09:35:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/hyupai42/public_html/newserverr/restaurarusuarios.php on line 242
+[26-Jul-2021 09:36:16 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/hyupai42/public_html/newserverr/stopuser.php on line 176
+[26-Jul-2021 09:40:49 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/hyupai42/public_html/newserverr/restaurarusuarios.php on line 242
